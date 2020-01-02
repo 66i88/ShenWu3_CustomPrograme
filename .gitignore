@@ -1,0 +1,7 @@
+!.gitignore
+/OBJ
+/x64
+/leptonica
+/SwPorject/Debug
+/Debug/*.*
+!/Debug/bmpSource
